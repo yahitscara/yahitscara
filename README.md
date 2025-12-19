@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <h3>building in public · shipping between categories · iterating openly</h3>
+</div>
+
+<div align="center">
   <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph"/>
 </div>
 
