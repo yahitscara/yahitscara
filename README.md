@@ -6,3 +6,7 @@
   <h1>Hi there 👋</h1>
   <p>Building things since I discovered legos weren't for eating :P</p>
 </div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"/>
+</div>
