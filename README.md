@@ -3,12 +3,11 @@
 </div>
 
 <div align="center">
-  <h1>Hi there 👋</h1>
-  <p>Building things since I discovered legos weren't for eating :P</p>
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph"/>
+  <img src="bio.gif" alt="Bio" width="100%"/>
 </div>
 
 ---
