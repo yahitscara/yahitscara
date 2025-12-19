@@ -18,6 +18,10 @@
   <img src="bio.gif" alt="Bio" width="100%"/>
 </div>
 
+<div align="center">
+  <p>ever since breaking the html on my myspace page, i've been chasing that same feeling — poke the system, see what bends, learn something, build again. most of what happens here starts as a question, a late-night experiment, or a tool i wish existed. sometimes it ships. sometimes it mutates. iteration is the point.</p>
+</div>
+
 ---
 
 ## 🚀 Featured Projects
