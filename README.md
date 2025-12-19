@@ -11,14 +11,14 @@
 </div>
 
 <div align="center">
+  <h3>log overview</h3>
+</div>
+
+<div align="center">
   <img src="bio.gif" alt="Bio" width="100%"/>
 </div>
 
 ---
-
-<div align="center">
-  <h3>log overview</h3>
-</div>
 
 ## 🚀 Featured Projects
 
