@@ -24,7 +24,10 @@
 
 ---
 
-## 📊 Recent Activity
+## 📊 Recent Work
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- [yahitscara](https://github.com/yahitscara/yahitscara) - Profile README
+- [microstream](https://github.com/yahitscara/microstream) - Micropayments on Qubic blockchain
+- [GhostPad](https://github.com/yahitscara/GhostPad) - Transparent writing app
+- [LI_formatter](https://github.com/yahitscara/LI_formatter) - LinkedIn profile formatter
+- [count_in_100s](https://github.com/yahitscara/count_in_100s) - Task tracker inspired by Alex Hormozi
